@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Kartik Jain</h1>
 <h3 align="center">A Passionate Full Stack Developer From India</h3>
 <p display="flex"   ><img align="center" margin="auto" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-
+<span>
 - 🌱 I’m currently learning **React, Node**
 
 - 👨‍💻 All of my projects are available at [https://kartikmickey.github.io/](https://kartikmickey.github.io)
@@ -13,6 +13,7 @@
 - 💬 Ask me about **React, Javascript**
 
 - 📫 How to reach me **741kartikjain@gmail.com**
+  </span>
 </p>
 
 
