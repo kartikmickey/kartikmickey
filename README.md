@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Kartik Jain</h1>
 <h3 align="center">A Passionate Full Stack Developer From India</h3>
-<p   ><img align="center" margin="auto" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<p display="flex"   ><img align="center" margin="auto" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 - 🌱 I’m currently learning **React, Node**
 
