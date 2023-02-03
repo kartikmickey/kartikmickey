@@ -10,7 +10,7 @@
   
 - 🌱 I’m currently learning **React, Node**
 
-- 👨‍💻 All of my projects are available at [https://kartikmickey.github.io/](https://kartikmickey.github.io)
+- 👨‍💻 All of my projects are available at [https://kartikmickey.github.io](https://kartikmickey.github.io)
 
 - 💬 Ask me about **React, Javascript**
 
