@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Kartik Jain</h1>
 <h3 align="center">A Passionate Full Stack Developer From India</h3>
 <p ><img align="left" margin="auto" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-<span align="right"  >
+<span align="right" marginTop="30px"  >
 - 🌱 I’m currently learning **React, Node**
 
 - 👨‍💻 All of my projects are available at [https://kartikmickey.github.io/](https://kartikmickey.github.io)
@@ -17,7 +17,7 @@
 </p>
 
 
-
+<br/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kartikmickey&label=Profile%20views&color=0e75b6&style=flat" alt="kartikmickey" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kartikmickey" alt="kartikmickey" /></a> </p>
