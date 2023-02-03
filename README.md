@@ -7,6 +7,7 @@
 <p ><img align="right" margin="auto" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
   <span width="300" ></span>
 <span >
+  
 - 🌱 I’m currently learning **React, Node**
 
 - 👨‍💻 All of my projects are available at [https://kartikmickey.github.io/](https://kartikmickey.github.io)
