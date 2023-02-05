@@ -1,5 +1,5 @@
 
-[![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)](https://kartikmickey.github.io)
+[![MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)](https://kartikmickey.github.io)
 
 
 <h1 align="center">Hi 👋, I'm Kartik Jain</h1>
