@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **React, Javascript**
 
-- 📫 How to reach me **741kartikjain@gmail.com**
+
   
  
   </span>
